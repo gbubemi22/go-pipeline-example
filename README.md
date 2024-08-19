@@ -3,7 +3,9 @@
 ```markdown
 # Go Pipeline Example
 
-This project demonstrates a simple pipeline implementation in Go that processes a stream of random integers.
+This project demonstrates a simple pipeline implementation in 
+Go that processes a stream of random integers.
+
  It includes a generator, squaring, and summing stages, all running concurrently with goroutines.
 
 ```
@@ -14,7 +16,10 @@ This project demonstrates a simple pipeline implementation in Go that processes 
 
 1.**Clone the Repository**
 ```bash
-   git clone https://github.com/yourusername/go-pipeline.git
+for http
+   https://github.com/gbubemi22/go-pipeline-example.git
+for ssh
+git@github.com:gbubemi22/go-pipeline-example.git
    cd go-pipeline
 ```
 
