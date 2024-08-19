@@ -3,7 +3,9 @@
 ```markdown
 # Go Pipeline Example
 
-This project demonstrates a simple pipeline implementation in Go that processes a stream of random integers. It includes a generator, squaring, and summing stages, all running concurrently with goroutines.
+This project demonstrates a simple pipeline implementation in Go that processes a stream of random integers.
+ It includes a generator, squaring, and summing stages, all running concurrently with goroutines.
+
 ```
 
 
