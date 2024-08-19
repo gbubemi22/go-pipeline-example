@@ -24,6 +24,22 @@ git@github.com:gbubemi22/go-pipeline-example.git
 ```
 
 
+**Build and Run**bash
+
+```bash
+go run main.go -count=10000
+```
+
+
+## Running Tests
+
+To run the tests, use the following command:bash
+
+```bash
+go test
+```
+
+
 
 ## Code Explanation
 
